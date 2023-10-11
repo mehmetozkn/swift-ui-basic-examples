@@ -15,6 +15,6 @@ struct MyModel: Identifiable {
 
 
 var model1 = MyModel(name: "Okula Git", content: "Eve Gelirken")
-var model2 = MyModel(name: "İşe Git", content: "iş iş iş ")
+var model2 = MyModel(name: "İse Git", content: "Ise Giderken")
 
 var modelArray = [model1, model2]
